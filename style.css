@@ -1,4 +1,9 @@
 
+html, body {
+    margin: 0;
+    padding: 0: 
+}
+
 h1 {
     color:blue;
     font-size: 3rem;
@@ -9,7 +14,6 @@ h1 {
     border: 2px solid navy;
     height: 98vh;
     width: 95vw;
-    
 }
 
 body {
