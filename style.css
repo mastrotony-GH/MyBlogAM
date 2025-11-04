@@ -6,8 +6,8 @@ h1 {
 .wrapper {
     background: lightblue;
     border: 2px solid navy;
-    max-height: 90%;
-    max-width: 95%;
+    height: 98%;
+    width: 95%;
     
 }
 
