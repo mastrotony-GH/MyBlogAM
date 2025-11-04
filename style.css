@@ -10,7 +10,7 @@ h1 {
 }
 
 .wrapper {   
-    margin: 20px auto;      
+    margin: 0px auto;      
     min-height: 100vh;
     padding: 2em;            
     background-color: lightblue;
