@@ -10,11 +10,11 @@ h1 {
 }
 
 .wrapper {
-    background: lightblue;
+    max-width: 1000px;      
+    margin: 20px auto;      
+    padding: 2em;            
+    background-color: lightblue;
     border: 2px solid navy;
-    height: 98vh;
-    width: 95vw;
-    margin: auto;
 }
 
 body {
