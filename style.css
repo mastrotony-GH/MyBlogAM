@@ -1,12 +1,22 @@
 h1 {
     color:blue;
+    font-size: 3rem;
 }
 
 .wrapper {
     background: lightblue;
-    border: 2px solid red;
+    border: 2px solid navy;
+    
 }
 
 body {
-    background: lightgray;
+    background: #f0f0f0;
 }
+
+
+/* notes
+em is relative to the element which i would have to declare in the element
+rem is relative to the root which i can declare in html {} 16px is default root
+
+
+*/
