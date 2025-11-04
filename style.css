@@ -9,9 +9,9 @@ h1 {
     font-size: 3rem;
 }
 
-.wrapper {
-    max-width: 1000px;      
+.wrapper {   
     margin: 20px auto;      
+    min-height: 100vh;
     padding: 2em;            
     background-color: lightblue;
     border: 2px solid navy;
