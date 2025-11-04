@@ -6,6 +6,8 @@ h1 {
 .wrapper {
     background: lightblue;
     border: 2px solid navy;
+    max-height: 90%;
+    max-width: 95%;
     
 }
 
@@ -17,6 +19,6 @@ body {
 /* notes
 em is relative to the element which i would have to declare in the element
 rem is relative to the root which i can declare in html {} 16px is default root
-
+padding inside margins outside
 
 */
