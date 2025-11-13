@@ -55,7 +55,7 @@ body {
 
 /* media */
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
   .half-b-container {
     flex-wrap: wrap;  /* allow boxes to stack */
   }
