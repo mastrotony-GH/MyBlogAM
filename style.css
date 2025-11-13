@@ -49,6 +49,12 @@ h2 {
     min-height: 15rem;
 }
 
+img {
+    max-width: 100%;   
+    height: auto;      
+    display: block;    
+}
+
 body {
     background: #f0f0f0;
 }
