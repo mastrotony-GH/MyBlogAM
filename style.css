@@ -1,22 +1,43 @@
-
 html, body {
     margin: 0;
     padding: 0: 
 }
 
 h1 {
-    color:blue;
+    color: orange;
     font-size: 3rem;
     margin: 0;
+}
+
+h2 {
+	color: orange;
+	
 }
 
 .wrapper {   
     margin: 0px auto;      
     min-height: 100vh;
+	overflow: hidden;
     padding: 2em;            
-    background-color: lightblue;
-    border: 2px solid navy;
+    background-color: #F4F3F3;
+    border: 8px solid #FF6F01;
 }
+
+.sub-wrap {
+	margin: 20px auto;      
+    padding: 2em;            
+    background-color: #F4F3F3;
+    border: 2px solid #FF6F01;
+}
+
+.half-b {
+	margin: 20px auto;      
+    padding: 2em;            
+    background-color: #F4F3F3;
+    border: 2px solid #FF6F01;
+	min-height: 15rem;
+}
+
 
 body {
     background: #f0f0f0;
