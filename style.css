@@ -21,6 +21,8 @@ h2 {
     padding: 2em;            
     background-color: #F4F3F3;
     border: 8px solid #FF6F01;
+	box-sizing: border-box; 
+    overflow-x: hidden; 
 }
 
 .sub-wrap {
