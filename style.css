@@ -44,7 +44,7 @@ h2 {
     background-color: #F4F3F3;
     border: 2px solid #FF6F01;
 	min-height: 15rem;
-	width: 40%;
+	flex: 1 1 40%;
 }
 
 
