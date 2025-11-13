@@ -53,6 +53,17 @@ body {
     background: #f0f0f0;
 }
 
+/* media */
+
+@media (max-width: 400px) {
+  .half-b-container {
+    flex-wrap: wrap;  /* allow boxes to stack */
+  }
+  .half-b {
+    flex: 1 1 100%;   /* full width when stacked */
+  }
+}
+
 
 /* notes
 em is relative to the element which i would have to declare in the element
