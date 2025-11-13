@@ -41,14 +41,13 @@ h2 {
 }
 
 .half-b {
-	margin: 20px auto;      
-    padding: 2em;            
+    flex: 1 1 0; 
+    padding: 2em;
     background-color: #F4F3F3;
     border: 2px solid #FF6F01;
-	min-height: 15rem;
-	flex: 1 1 0;
+    box-sizing: border-box;
+    min-height: 15rem;
 }
-
 
 body {
     background: #f0f0f0;
