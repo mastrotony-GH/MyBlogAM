@@ -33,8 +33,9 @@ h2 {
 
 .half-b-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 20px;
+  flex-wrap: nowrap; 
 }
 
 .half-b {
