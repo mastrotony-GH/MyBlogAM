@@ -1,6 +1,6 @@
 html, body {
     margin: 0;
-    padding: 0: 
+    padding: 0;
 }
 
 h1 {
@@ -28,6 +28,13 @@ h2 {
     padding: 2em;            
     background-color: #F4F3F3;
     border: 2px solid #FF6F01;
+	
+}
+
+.half-b-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
 }
 
 .half-b {
@@ -36,6 +43,7 @@ h2 {
     background-color: #F4F3F3;
     border: 2px solid #FF6F01;
 	min-height: 15rem;
+	width: 40%;
 }
 
 
